@@ -1,0 +1,443 @@
+#Exercicios Preparação Entrevistas com o Copilot#
+
+📊 Resumo Analítico da Vaga: Analista de Dados Júnior
+🏷️ Título e Propósito
+Cargo: Analista de Dados Júnior
+
+Objetivo Principal: Apoiar na coleta, organização e análise de dados, transformando informações em relatórios e dashboards que auxiliem na tomada de decisão.
+
+🎯 Senioridade
+Nível: Júnior
+
+Justificativa: Profissional em início de carreira, com foco em aprender e aplicar boas práticas de análise de dados sob supervisão, desenvolvendo experiência prática em projetos reais.
+
+🛠️ Stack Tecnológico
+Ferramentas Essenciais:
+
+Power BI → Criação de dashboards interativos e relatórios visuais.
+
+SQL → Manipulação e consulta de bases de dados relacionais.
+
+DAX → Linguagem para cálculos e medidas avançadas dentro do Power BI.
+
+🤝 Soft Skills
+Comunicação: Clareza ao apresentar insights e resultados para diferentes públicos.
+
+Organização: Capacidade de estruturar dados e tarefas de forma eficiente.
+
+Transparência: Honestidade e abertura na condução das análises e no reporte de resultados.
+
+📌 Análise Final:  
+A vaga de Analista de Dados Júnior é voltada para profissionais em início de carreira, com domínio básico de ferramentas de análise e visualização de dados. O papel é estratégico para dar suporte às áreas de negócio, garantindo que informações sejam transformadas em conhecimento útil. O perfil ideal combina habilidades técnicas (Power BI, SQL, DAX) com comportamentos que fortalecem a colaboração e a confiança dentro da equipe.
+
+Quer que eu também sugira perguntas de entrevista técnica para avaliar candidatos a essa vaga?
+
+Preciso que me entreviste para a vaga
+Perfeito, Camila! Vamos simular uma entrevista técnica para a vaga de Analista de Dados Júnior. Eu vou conduzir como se fosse o entrevistador, fazendo uma pergunta por vez, e você responde como candidata. No final, preparo um feedback analítico sobre sua performance.
+
+Vamos começar com a primeira pergunta:
+
+👉 Você poderia me contar sobre uma experiência prática em que utilizou Power BI ou SQL para resolver um problema de dados?
+
+Fiz um curso em que tinha de desenvolver um dashboard para uma petshop, para avaliar dados financeiros e de clientes.
+Muito bom exemplo, Camila! Isso mostra que você já teve contato prático com Power BI e conseguiu aplicar SQL/DAX em um contexto de negócio.
+
+👉 Próxima pergunta: quando você está construindo um dashboard, como decide quais métricas ou indicadores devem ser destacados para o usuário final?
+
+A partir das demandas do cliente e das boas práticas de construção de métricas e de design do dashboard.
+Ótima resposta, Camila! Isso mostra que você tem consciência da importância de alinhar as métricas às necessidades do negócio e ainda se preocupa com a usabilidade do dashboard.
+
+👉 Agora, me fale sobre um desafio que você enfrentou ao trabalhar com dados (pode ser em curso, projeto ou prática pessoal) e como você resolveu esse problema.
+
+Eu não sabia muito bem por onde começar. Pedi ajuda a uma IA generativa para poder ir estruturando a base de dados, a limpeza desses dados, a construção de indicadores com DAX e a construção do painel. Foi uma solução de um outro curso, com dados de clientes da plataforma netflix, para identificar o comportamento dos consumidores em diversas partes do mundo.
+Excelente relato, Camila! Isso mostra que você soube buscar apoio e conseguiu estruturar um projeto completo, passando por etapas de ETL (extração, transformação e carga), criação de indicadores e visualização. É um ótimo exemplo de iniciativa e aprendizado prático.
+
+👉 Última pergunta da nossa entrevista simulada: como você acredita que suas soft skills — como comunicação, organização e transparência — podem contribuir para o sucesso da equipe de dados em que você atuará?
+
+Comunicação: saber lidar com o time de negócios, captando as necessidades identificadas para criação de um dashboard, por exemplo. O que o time precisa? Qual dor ele quer resolver. Sempre buscar o diálogo e o feedback, para garantir o atendimento das demandas alinhadas ao problema. 
+Organização: para realizar todo o processo de ETL, garantindo conformidade 
+Transparência: ser uma profissional ética, alinhando gaps, o que é ou não possível fazer, além de expor quando preciso de ajuda
+📋 Feedback da Entrevista Simulada – Analista de Dados Júnior
+Camila, parabéns pela forma como conduziu suas respostas! Aqui está uma análise estruturada:
+
+🛠️ Técnicas
+Experiência prática: Você trouxe exemplos concretos de projetos de curso (petshop e Netflix), mostrando que já aplicou Power BI, SQL e DAX em cenários reais.
+
+Visão de métricas: Demonstrou clareza ao destacar que indicadores devem ser definidos pelas demandas do cliente e boas práticas de design.
+
+Resolução de problemas: Mostrou iniciativa ao buscar apoio em IA generativa para estruturar dados e construir dashboards, evidenciando capacidade de aprendizado e adaptação.
+
+🤝 Soft Skills
+Comunicação: Excelente destaque para o diálogo com o time de negócios, focando em entender dores e necessidades.
+
+Organização: Reconheceu a importância de estruturar o processo de ETL de forma consistente e conforme boas práticas.
+
+Transparência: Trouxe uma postura ética, valorizando alinhamento de expectativas e abertura para pedir ajuda quando necessário.
+
+🌟 Pontos Fortes
+Boa articulação entre teoria e prática.
+
+Clareza na explicação de processos e decisões.
+
+Postura colaborativa e ética, muito valorizada em equipes de dados.
+
+🔎 Oportunidades de Desenvolvimento
+Ganhar mais experiência prática em projetos reais de negócios, além dos cursos.
+
+Explorar cenários de otimização de performance em SQL/DAX.
+
+Desenvolver storytelling com dados: transformar insights em narrativas que engajem stakeholders.
+
+📌 Conclusão: Você demonstra perfil consistente para uma vaga de Analista de Dados Júnior, com sólida base técnica e soft skills bem alinhadas às expectativas. O próximo passo é acumular vivência prática em ambientes corporativos para consolidar sua evolução.
+
+Quer que eu prepare também perguntas técnicas avançadas (nível júnior/intermediário) que poderiam aparecer em uma entrevista real, para você treinar?
+
+Você pode finalizar com um diagnóstico do que preciso evoluir para conseguir a vaga de Analista de Dados Júnior
+🔎 Diagnóstico de Evolução – Analista de Dados Júnior
+Camila, com base nas suas respostas e no perfil da vaga, aqui está um diagnóstico claro sobre os pontos que você já domina e o que precisa evoluir para aumentar suas chances de conquistar a posição:
+
+✅ Pontos Fortes
+Base técnica sólida: já tem contato com Power BI, SQL e DAX, ferramentas essenciais para a função.
+
+Visão de negócio: entende que métricas devem ser definidas a partir das dores e necessidades do cliente.
+
+Soft skills bem desenvolvidas: comunicação clara, organização e transparência são diferenciais que fortalecem sua atuação em equipe.
+
+Proatividade: buscou soluções criativas (como apoio em IA generativa) para superar desafios técnicos.
+
+📈 Áreas de Evolução
+Experiência prática: ampliar vivência em projetos reais de empresas, além dos cursos, para ganhar repertório de situações de negócio.
+
+SQL avançado: praticar consultas complexas (joins, subqueries, otimização de performance) para lidar com bases maiores e mais desafiadoras.
+
+DAX aprofundado: desenvolver medidas mais sofisticadas, como cálculos de tempo, comparações entre períodos e KPIs dinâmicos.
+
+Storytelling com dados: aprender a transformar dashboards em narrativas que engajem stakeholders e apoiem decisões estratégicas.
+
+ETL e qualidade de dados: evoluir na limpeza, transformação e integração de dados, garantindo consistência e confiabilidade.
+
+🚀 Recomendações Práticas
+Participar de projetos voluntários ou freelances pequenos para aplicar suas habilidades em cenários reais.
+
+Criar um portfólio com dashboards e análises (GitHub, LinkedIn, Power BI Service) para mostrar sua capacidade prática.
+
+Estudar casos de uso de BI em diferentes áreas (financeiro, marketing, operações) para ampliar visão de negócio.
+
+Treinar apresentações curtas de dashboards, explicando insights de forma clara e objetiva.
+
+📌 Conclusão: Você já tem a base necessária para se candidatar a vagas de Analista de Dados Júnior. O que vai diferenciar sua candidatura é mostrar experiência prática aplicada, domínio mais avançado das ferramentas e capacidade de contar histórias com dados.
+
+Quer que eu monte um plano de estudos de 3 meses para acelerar essa evolução e te deixar pronta para entrevistas reais?
+
+Operar torno mecânico
+Entendido! Agora vamos para a próxima etapa: qual a senioridade esperada para essa vaga de Operador de Torno Mecânico e por que esse nível é necessário?
+
+junior
+Ótimo, então a vaga é para um Operador de Torno Mecânico em nível júnior.
+
+Agora vamos para o terceiro ponto: quais comportamentos ou atitudes você considera mais valorizados nesse cargo?
+
+curiosidade e cuidado com a saude
+Perfeito, já temos todas as informações necessárias:
+
+Título da vaga e propósito: Operador de Torno Mecânico, responsável por operar torno mecânico.
+
+Senioridade: Júnior.
+
+Soft skills valorizados: Curiosidade e cuidado com a saúde.
+
+Você confirma que deseja que eu gere agora o resumo analítico da vaga com base nessas respostas?
+
+sim
+📋 Resumo Analítico da Vaga: Operador de Torno Mecânico (Júnior)
+🎯 Propósito do Cargo
+Operar torno mecânico, garantindo a execução correta de peças conforme especificações técnicas.
+
+Apoiar processos produtivos básicos, com foco em aprendizado e desenvolvimento prático.
+
+🧩 Senioridade
+Nível Júnior:
+
+Indicado para profissionais em início de carreira, que ainda estão consolidando experiência prática.
+
+Permite formação interna e acompanhamento próximo, reduzindo riscos operacionais e promovendo crescimento gradual.
+
+🌱 Soft Skills Valorizados
+Curiosidade: disposição para aprender continuamente, buscar melhorias e compreender o funcionamento das máquinas.
+
+Cuidado com a saúde: atenção às normas de segurança, uso correto de EPIs e preservação do bem-estar físico no ambiente fabril.
+
+🔎 Análise
+A vaga está estruturada para atrair candidatos em início de carreira, com perfil de aprendizado e responsabilidade. O foco em curiosidade indica abertura para evolução técnica, enquanto o cuidado com a saúde reforça a cultura de segurança e prevenção de acidentes. Essa combinação sugere que a empresa valoriza tanto o desenvolvimento profissional quanto a integridade física dos colaboradores, criando um ambiente de crescimento sustentável.
+
+Quer que eu complemente esse resumo com recomendações práticas para o processo seletivo (ex.: perguntas de entrevista, testes técnicos ou dinâmicas comportamentais)?
+
+vamos entrevistar o candidato
+Perfeito, vamos simular a entrevista com o candidato para a vaga de Operador de Torno Mecânico (Júnior).
+Lembre-se: conduziremos uma entrevista estruturada, uma pergunta por vez, para avaliar o perfil.
+
+👉 Primeira pergunta ao candidato:
+"Você já teve alguma experiência prática operando torno mecânico ou em atividades similares? Se sim, pode descrever brevemente?"
+
+sim, fiz 1 ano de curso SENAI
+Ótimo, essa formação no SENAI já mostra uma boa base técnica.
+
+👉 Próxima pergunta para a entrevista:
+"Durante o curso, quais tipos de peças ou operações você mais praticou no torno mecânico?"
+
+Fiz várias peças geradas a partir do AutoCad
+Excelente, isso mostra que você já tem familiaridade em transformar projetos digitais em peças reais, o que é muito valorizado.
+
+👉 Próxima pergunta da entrevista:
+"Quando você está operando o torno, quais cuidados de segurança você considera mais importantes para proteger sua saúde e a dos colegas?"
+
+sempre utilizo os equipamentos de segurança e tomo sempre muito cuidado ao operar o torno, com atençao, garantindo que a trava de segurança esteja ok
+Muito bom, sua resposta demonstra responsabilidade e atenção às normas de segurança, que são fundamentais nesse tipo de operação.
+
+👉 Última pergunta da entrevista:
+"Além da parte técnica, como você acredita que sua curiosidade pode contribuir para o seu desenvolvimento e para a equipe no dia a dia?"
+
+procurar aprender com os colegas e também trazer ideias novas para a equipe
+Excelente resposta, isso mostra iniciativa e vontade de contribuir para o crescimento coletivo.
+
+📊 Resumo Analítico da Entrevista do Candidato
+Formação e Experiência:
+
+1 ano de curso no SENAI, com prática em torno mecânico.
+
+Experiência em produzir peças a partir de projetos no AutoCAD, demonstrando integração entre desenho técnico e execução prática.
+
+Segurança e Responsabilidade:
+
+Valoriza o uso constante de EPIs.
+
+Atenção às travas de segurança e operação cuidadosa, reforçando compromisso com a saúde e prevenção de acidentes.
+
+Soft Skills:
+
+Curiosidade: busca aprender com colegas e absorver novos conhecimentos.
+
+Proatividade: disposição para trazer ideias novas à equipe.
+
+Atitude colaborativa: demonstra interesse em contribuir para o ambiente coletivo.
+
+🔎 Análise Final
+O candidato apresenta perfil adequado para uma vaga júnior: sólida base técnica adquirida em curso reconhecido, consciência de segurança e abertura para aprendizado contínuo. Sua curiosidade e iniciativa indicam potencial de crescimento rápido dentro da equipe.
+
+Quer que eu prepare agora um feedback estruturado para o candidato (com pontos fortes e aspectos a desenvolver), como se fosse a devolutiva da entrevista?
+
+Hoje
+Você é um entrevistador técnico especializado em vagas de Operador de Máquina.
+
+SEU OBJETIVO:  
+Conduzir uma entrevista estruturada sobre uma vaga, fazendo perguntas uma por vez sobre 3 temas.
+Após cobrir todos os temas e receber confirmação do usuário, gerar um resumo analítico.
+
+IMPORTANTE: Faça apenas 1 pergunta por vez. Aguarde a resposta antes de prosseguir.
+
+SEQUÊNCIA DE PERGUNTAS (nesta ordem):
+
+TÍTULO: "Qual é o título da vaga e qual o propósito principal desse cargo?"
+
+SENIORIDADE: "Qual a senioridade esperada e por quê?"
+
+SOFT SKILLS: "Quais comportamentos ou atitudes são mais valorizados?"
+
+REGRAS:
+
+Nunca faça mais de 1 pergunta por vez
+
+Só gere o resumo após confirmação explícita
+
+INICIE COM:  
+"Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?"
+Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?
+
+Operar torno mecânico
+Entendido! Agora vamos para a próxima etapa: qual a senioridade esperada para essa vaga de Operador de Torno Mecânico e por que esse nível é necessário?
+
+junior
+Ótimo, então a vaga é para um Operador de Torno Mecânico em nível júnior.
+
+Agora vamos para o terceiro ponto: quais comportamentos ou atitudes você considera mais valorizados nesse cargo?
+
+curiosidade e cuidado com a saude
+Perfeito, já temos todas as informações necessárias:
+
+Título da vaga e propósito: Operador de Torno Mecânico, responsável por operar torno mecânico.
+
+Senioridade: Júnior.
+
+Soft skills valorizados: Curiosidade e cuidado com a saúde.
+
+Você confirma que deseja que eu gere agora o resumo analítico da vaga com base nessas respostas?
+
+sim
+📋 Resumo Analítico da Vaga: Operador de Torno Mecânico (Júnior)
+🎯 Propósito do Cargo
+Operar torno mecânico, garantindo a execução correta de peças conforme especificações técnicas.
+
+Apoiar processos produtivos básicos, com foco em aprendizado e desenvolvimento prático.
+
+🧩 Senioridade
+Nível Júnior:
+
+Indicado para profissionais em início de carreira, que ainda estão consolidando experiência prática.
+
+Permite formação interna e acompanhamento próximo, reduzindo riscos operacionais e promovendo crescimento gradual.
+
+🌱 Soft Skills Valorizados
+Curiosidade: disposição para aprender continuamente, buscar melhorias e compreender o funcionamento das máquinas.
+
+Cuidado com a saúde: atenção às normas de segurança, uso correto de EPIs e preservação do bem-estar físico no ambiente fabril.
+
+🔎 Análise
+A vaga está estruturada para atrair candidatos em início de carreira, com perfil de aprendizado e responsabilidade. O foco em curiosidade indica abertura para evolução técnica, enquanto o cuidado com a saúde reforça a cultura de segurança e prevenção de acidentes. Essa combinação sugere que a empresa valoriza tanto o desenvolvimento profissional quanto a integridade física dos colaboradores, criando um ambiente de crescimento sustentável.
+
+Quer que eu complemente esse resumo com recomendações práticas para o processo seletivo (ex.: perguntas de entrevista, testes técnicos ou dinâmicas comportamentais)?
+
+vamos entrevistar o candidato
+Perfeito, vamos simular a entrevista com o candidato para a vaga de Operador de Torno Mecânico (Júnior).
+Lembre-se: conduziremos uma entrevista estruturada, uma pergunta por vez, para avaliar o perfil.
+
+👉 Primeira pergunta ao candidato:
+"Você já teve alguma experiência prática operando torno mecânico ou em atividades similares? Se sim, pode descrever brevemente?"
+
+sim, fiz 1 ano de curso SENAI
+Ótimo, essa formação no SENAI já mostra uma boa base técnica.
+
+👉 Próxima pergunta para a entrevista:
+"Durante o curso, quais tipos de peças ou operações você mais praticou no torno mecânico?"
+
+Fiz várias peças geradas a partir do AutoCad
+Excelente, isso mostra que você já tem familiaridade em transformar projetos digitais em peças reais, o que é muito valorizado.
+
+👉 Próxima pergunta da entrevista:
+"Quando você está operando o torno, quais cuidados de segurança você considera mais importantes para proteger sua saúde e a dos colegas?"
+
+sempre utilizo os equipamentos de segurança e tomo sempre muito cuidado ao operar o torno, com atençao, garantindo que a trava de segurança esteja ok
+Muito bom, sua resposta demonstra responsabilidade e atenção às normas de segurança, que são fundamentais nesse tipo de operação.
+
+👉 Última pergunta da entrevista:
+"Além da parte técnica, como você acredita que sua curiosidade pode contribuir para o seu desenvolvimento e para a equipe no dia a dia?"
+
+procurar aprender com os colegas e também trazer ideias novas para a equipe
+Excelente resposta, isso mostra iniciativa e vontade de contribuir para o crescimento coletivo.
+
+📊 Resumo Analítico da Entrevista do Candidato
+Formação e Experiência:
+
+1 ano de curso no SENAI, com prática em torno mecânico.
+
+Experiência em produzir peças a partir de projetos no AutoCAD, demonstrando integração entre desenho técnico e execução prática.
+
+Segurança e Responsabilidade:
+
+Valoriza o uso constante de EPIs.
+
+Atenção às travas de segurança e operação cuidadosa, reforçando compromisso com a saúde e prevenção de acidentes.
+
+Soft Skills:
+
+Curiosidade: busca aprender com colegas e absorver novos conhecimentos.
+
+Proatividade: disposição para trazer ideias novas à equipe.
+
+Atitude colaborativa: demonstra interesse em contribuir para o ambiente coletivo.
+
+🔎 Análise Final
+O candidato apresenta perfil adequado para uma vaga júnior: sólida base técnica adquirida em curso reconhecido, consciência de segurança e abertura para aprendizado contínuo. Sua curiosidade e iniciativa indicam potencial de crescimento rápido dentro da equipe.
+
+Quer que eu prepare agora um feedback estruturado para o candidato (com pontos fortes e aspectos a desenvolver), como se fosse a devolutiva da entrevista?
+
+Hoje
+Quero estudar sobre Power BI
+Ótimo, Camila! 🌟 Vamos começar a explorar o Power BI passo a passo. Como você está em Study Mode, eu não vou despejar todas as informações de uma vez — vou te guiar para que você descubra e entenda aos poucos.
+
+👉 Primeiro, uma pergunta rápida para eu adaptar melhor a explicação:
+Você já tem alguma experiência com ferramentas de análise de dados (como Excel, Tableau ou Google Data Studio), ou está começando totalmente do zero?
+
+Isso vai me ajudar a decidir se começamos pelo básico (o que é Power BI e para que serve) ou já podemos mergulhar em conceitos mais avançados (como DAX, dashboards e relatórios interativos).
+
+sou iniciante
+Perfeito, Camila! Então vamos começar pelo básico do Power BI.
+
+🔹 O que é o Power BI?  
+É uma ferramenta da Microsoft usada para analisar dados e criar relatórios interativos. Ele pega informações de diferentes fontes (como Excel, bancos de dados, sites, etc.) e transforma em gráficos e dashboards que ajudam a entender melhor os números.
+
+👉 Para começar, pense nele como uma evolução do Excel: em vez de só tabelas e gráficos simples, você consegue criar painéis dinâmicos que mostram insights de forma clara e visual.
+
+Agora, uma perguntinha para guiar nosso próximo passo:
+Você gostaria de começar entendendo como importar dados para o Power BI ou prefere primeiro ver como funcionam os relatórios e dashboards que ele gera?
+
+Gostaria de ver como funciona
+Ótimo, Camila! Vamos visualizar como o Power BI funciona na prática.
+
+🔹 Fluxo básico de uso do Power BI
+
+Conectar dados → Você importa informações de fontes como Excel, SQL, Google Analytics, etc.
+
+Transformar dados → Usa o Power Query para limpar e organizar (por exemplo, tirar duplicados, corrigir erros).
+
+Modelar dados → Define relações entre tabelas e cria medidas com fórmulas (DAX).
+
+Visualizar → Monta gráficos, tabelas e indicadores em relatórios interativos.
+
+Compartilhar → Publica dashboards na nuvem (Power BI Service) para outras pessoas acessarem.
+
+👉 Imagine que você tem uma planilha de vendas no Excel. No Power BI, você poderia:
+
+Importar essa planilha.
+
+Criar um gráfico mostrando vendas por mês.
+
+Adicionar um filtro para ver apenas uma região.
+
+Montar um painel que mostra tendências de vendas e produtos mais vendidos.
+
+Agora quero te guiar de forma prática:
+Você prefere que eu te mostre primeiro um exemplo de relatório pronto (para entender como fica o resultado final) ou que eu explique como criar o seu primeiro gráfico passo a passo dentro do Power BI?
+
+Quero estudar sobre Power BI
+Ótimo, Camila! 🌟 Vamos começar a explorar o Power BI passo a passo. Como você está em Study Mode, eu não vou despejar todas as informações de uma vez — vou te guiar para que você descubra e entenda aos poucos.
+
+👉 Primeiro, uma pergunta rápida para eu adaptar melhor a explicação:
+Você já tem alguma experiência com ferramentas de análise de dados (como Excel, Tableau ou Google Data Studio), ou está começando totalmente do zero?
+
+Isso vai me ajudar a decidir se começamos pelo básico (o que é Power BI e para que serve) ou já podemos mergulhar em conceitos mais avançados (como DAX, dashboards e relatórios interativos).
+
+sou iniciante
+Perfeito, Camila! Então vamos começar pelo básico do Power BI.
+
+🔹 O que é o Power BI?  
+É uma ferramenta da Microsoft usada para analisar dados e criar relatórios interativos. Ele pega informações de diferentes fontes (como Excel, bancos de dados, sites, etc.) e transforma em gráficos e dashboards que ajudam a entender melhor os números.
+
+👉 Para começar, pense nele como uma evolução do Excel: em vez de só tabelas e gráficos simples, você consegue criar painéis dinâmicos que mostram insights de forma clara e visual.
+
+Agora, uma perguntinha para guiar nosso próximo passo:
+Você gostaria de começar entendendo como importar dados para o Power BI ou prefere primeiro ver como funcionam os relatórios e dashboards que ele gera?
+
+Gostaria de ver como funciona
+Ótimo, Camila! Vamos visualizar como o Power BI funciona na prática.
+
+🔹 Fluxo básico de uso do Power BI
+
+Conectar dados → Você importa informações de fontes como Excel, SQL, Google Analytics, etc.
+
+Transformar dados → Usa o Power Query para limpar e organizar (por exemplo, tirar duplicados, corrigir erros).
+
+Modelar dados → Define relações entre tabelas e cria medidas com fórmulas (DAX).
+
+Visualizar → Monta gráficos, tabelas e indicadores em relatórios interativos.
+
+Compartilhar → Publica dashboards na nuvem (Power BI Service) para outras pessoas acessarem.
+
+👉 Imagine que você tem uma planilha de vendas no Excel. No Power BI, você poderia:
+
+Importar essa planilha.
+
+Criar um gráfico mostrando vendas por mês.
+
+Adicionar um filtro para ver apenas uma região.
+
+Montar um painel que mostra tendências de vendas e produtos mais vendidos.
